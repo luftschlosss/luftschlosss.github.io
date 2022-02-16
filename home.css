@@ -1,7 +1,6 @@
 .center{
     margin: auto;
     width: 75%;
-    padding: 10px;
 }
 
 .image{
@@ -11,6 +10,7 @@
 
 .top{
     margin-top: 1cm;
+    padding-top: 1cm;
 }
 
 .text{
@@ -23,6 +23,10 @@
     color: blue;
 }
 
-#transisi{
-    background-color: #bfb3a8;
+#home{
+    background-color: #a2d9ff;
+}
+
+#footer{
+    background-color: #a2d9ff;
 }

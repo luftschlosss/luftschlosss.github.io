@@ -1,5 +1,28 @@
 .center{
     margin: auto;
     width: 75%;
+    padding: 10px;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+}
+
+.top{
+    margin-top: 1cm;
+}
+
+.text{
     text-align: center;
+
+}
+
+.font-awesome{
+    margin-right: 1cm;
+    color: blue;
+}
+
+#transisi{
+    background-color: #bfb3a8;
 }
